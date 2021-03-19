@@ -1,2 +1,5 @@
 # test_repo
-A test repo to play around with for workshops!
+
+:star: A test repo to play around with for workshops! :star:
+
+Feel free to fork!
