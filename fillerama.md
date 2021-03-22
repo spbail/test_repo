@@ -8,3 +8,5 @@ Bender, this is Fry's decision… and he made it wrong. So it's time for us to i
 Look, everyone wants to be like Germany, but do we really have the pure strength of 'will'?
 Yeah. Give a little credit to our public schools.
 When will that be?
+
+I think it will be soon.
